@@ -15,4 +15,4 @@ You can also see 3 scripts:
 - **lab5.rdk**: This is the defined environment in RoboDK that allows the communication and presents the results.
 
 
-![Test image](test.png)
+![Test image](test.PNG)
