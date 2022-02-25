@@ -13,3 +13,6 @@ You can also see 3 scripts:
 - **test_py.py**: The roboDK python file that receives the data from the Leap Motion
 - **02-multi-device.cpp**: The [Chai3d](https://www.chai3d.org/) adapted code, modified to send the coordinates of the hand to the simulation.
 - **lab5.rdk**: This is the defined environment in RoboDK that allows the communication and presents the results.
+
+
+[Test image](test.png)
