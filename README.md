@@ -1,5 +1,5 @@
 # UDP_with_ROBO_DK
-This project consists in the communication between a Python server and a ROBO_DK Simulation [link](https://robodk.com/) via the UDP protocol
+This project consists in the communication between a Python server and a [ROBO_DK Simulation](https://robodk.com/) via the UDP protocol
 
 Implementation of a UDP socket in Python to communicate between the user and the RoboDK interface. We have 2 Python scripts:
 - **PC_UDP_socket**: It sends from the PC server to the RoboDK client the desired radius dimension as a byte object. The user chooses the data to be sent and then by using a UDP protocol, we are able to send this packet to the RoboDK interface.
