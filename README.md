@@ -9,6 +9,7 @@ You can see 2 Python scripts:
 ## Sending the info from the LEAP MOTION device to ROBO_DK via UDP communication
 This 2nd project consists in sending the coordinates from a [Leap Motion](https://www.ultraleap.com/) device to move the End-Effector of a Robot simulation with [ROBO_DK Simulation](https://robodk.com/), using the UDP protocol communication. 
 
-You can also see 2 Python scripts:
+You can also see 3 scripts:
 - **test_py.py**: The roboDK python file that receives the data from the Leap Motion
 - **02-multi-device.cpp**: The [Chai3d](https://www.chai3d.org/) adapted code, modified to send the coordinates of the hand to the simulation.
+- **lab5.rdk**: This is the defined environment in RoboDK that allows the communication and presents the results.
